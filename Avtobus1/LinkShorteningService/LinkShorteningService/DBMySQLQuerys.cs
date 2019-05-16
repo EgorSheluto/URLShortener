@@ -9,7 +9,7 @@ namespace LinkShorteningService
     class DBMySQLQuerys
     {
         //Select
-        public const string SELECT_URLINFO = @"SELECT id AS 'ID', fullurl AS 'Full URL', shorturl AS 'Short URL', createdate AS 'Date', amount AS 'Amount' FROM URLInfo";
+        public const string SELECT_URLINFO = @"SELECT id, fullurl, shorturl, createdate, amount FROM URLInfo";
         public const string SELECT_FULLURL_IF_EXIST = @"SELECT COUNT(id) FROM URLInfo WHERE fullurl = '{0}'";
         public const string SELECT_SHORTURL_IF_EXIST = @"SELECT COUNT(id) FROM URLInfo WHERE shorturl = '{0}'";
         public const string SELECT_URLINFO_MAX_ID = @"SELECT MAX(id) FROM URLInfo";
