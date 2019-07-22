@@ -1,0 +1,14 @@
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\bin\Debug\LinkShorteningService.exe.config
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\bin\Debug\LinkShorteningService.exe
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\bin\Debug\LinkShorteningService.pdb
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\bin\Debug\Google.Protobuf.dll
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\bin\Debug\BouncyCastle.Crypto.dll
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.csprojResolveAssemblyReference.cache
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.Form1.resources
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.Properties.Resources.resources
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.csproj.GenerateResource.Cache
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.csproj.CoreCompileInputs.cache
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.exe
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.pdb
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.AddUrlForm.resources
+E:\YOUNG PROGRAMMER(START EDITION)\Avtobus1\LinkShorteningService\LinkShorteningService\obj\Debug\LinkShorteningService.EditUrlForm.resources
